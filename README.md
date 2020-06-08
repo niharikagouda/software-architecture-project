@@ -28,6 +28,11 @@ Edge device has two functions: one is to deploy the model and predicting the med
 Edge device code we deploy the trained model and predict whether the particular patient has heart disease or not.
 
 
+Code is explained in the folder: https://github.com/niharikagouda/software-architecture-project/blob/master/software_architecture_project.zip in the Code implementation.pdf document.
+
+Demo videos are in the link: https://www.dropbox.com/sh/k8uscsuqkqwsxlo/AAAxU28XY6x_LyCV9ce_vs0va?dl=0
+
+
 
 
 
