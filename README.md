@@ -1,6 +1,4 @@
-# software-architecture-project
-Details of our software architecture project
-Software architecture project
+# Details of software-architecture-project
 
 We are getting and reading the data from the dataset provided in the project specification to apply in our prototype,but in real case implementation we are supposed to get the data every 5 minutes from the user and publish the data into a kafka broker node which we launched firstly on our local machine.
 
